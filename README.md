@@ -18,9 +18,9 @@ The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?fil
 
 ## Contributors
 
-![Photo of Martin](martin.jpg | width=100) 
+<img src="martin.jpg" width="100">
  
-Martin Preusse [martinpreusse.com](https://martinpreusse.com), PhD in computational biology, Neo4j expert, Founder of [Kaiser & Preusse](https://kaiser-preusse.com).
+Martin Preusse [(martinpreusse.com)](https://martinpreusse.com), PhD in computational biology, Neo4j expert, Founder of [Kaiser & Preusse](https://kaiser-preusse.com).
 
  
 ![Photo of Sebastian](https://avatars2.githubusercontent.com/u/2486305?v=4&s=96) 
