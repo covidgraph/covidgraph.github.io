@@ -7,8 +7,10 @@ We build a knowledge graph on Covid-19 that integrates various public datasets.
 
 The graph is implemented in Neo4j, a public version is accessible at:
 
-- https://covid.petesis.com:7473
+- https://covid.petesis.com:7473  (http://covid.petesis.com:7474/ for Chrome/ium and other cases where there is a problem with SSL)
 - user: public, password: corona
+
+The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?file=https://gist.githubusercontent.com/yGuy/27c2412bbf0724464c396fe2dc2a6851/raw/1bbd411619478ba1d500cea079de4d25ce947707/CovidGraphSchemaCleaned). 
 
 **Note: There is an issue with Chrome/Chromium and SSL. Use Firefox/Safari. We are working on a solution.**
 
