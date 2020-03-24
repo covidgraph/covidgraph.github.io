@@ -1,7 +1,19 @@
+We build a knowledge graph on Covid-19 that integrates various public datasets.
+
+- A publication data set on Covid-19 (https://pages.semanticscholar.org/coronavirus-research)
+- Data on gene interaction and function from public genome databases
+- Case reports from John Hopkins University
+- Population data from the UN
+
+The graph is implemented in Neo4j, a public version is accessible at:
+
+- https://covid.petesis.com:7473
+- user: public, password: corona
+
+**Note: There is an issue with Chrome/Chromium and SSL. Use Firefox/Safari. We are working on a solution.**
+
 
 # 1. Case data
-
-## A Knowledge Graph on Covid-19
 
 A knowledge graph that integrates case numbers reported by John Hopkins University and population data from the UN. Work in progress, looking for more datasources, PR welcome!
 
