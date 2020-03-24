@@ -7,12 +7,29 @@ We build a knowledge graph on Covid-19 that integrates various public datasets.
 
 The graph is implemented in Neo4j, a public version is accessible at:
 
-- https://covid.petesis.com:7473  (http://covid.petesis.com:7474/ for Chrome/ium and other cases where there is a problem with SSL)
+- https://covid.petesis.com:7473
+- http://covid.petesis.com:7474/ (for Chrome/ium and other cases where there is a problem with SSL)
 - user: public, password: corona
 
 The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?file=https://gist.githubusercontent.com/yGuy/27c2412bbf0724464c396fe2dc2a6851/raw/1bbd411619478ba1d500cea079de4d25ce947707/CovidGraphSchemaCleaned). 
 
 **Note: There is an issue with Chrome/Chromium and SSL. Use Firefox/Safari. We are working on a solution.**
+
+
+## Contributors
+
+![Photo of Martin](martin.jpg) 
+ 
+Martin Preusse [martinpreusse.com](https://martinpreusse.com), PhD in computational biology, Neo4j expert, Founder of [Kaiser & Preusse](https://kaiser-preusse.com).
+
+ 
+![Photo of Sebastian](https://avatars2.githubusercontent.com/u/2486305?v=4&s=96) 
+ 
+Sebastian Mueller [(GitHub/yGuy)](https://github.com/yguy), working at [yWorks](https://yworks.com) on custom visualization solutions with [yFiles](https://www.yworks.com/yfiles). In this project, Sebastian is working on a prototype application for conveniently browsing the network of Covid19-related papers and publications.
+
+Dr. Alexander Jarasch
+
+Tim Bleimehl
 
 
 # 1. Case data
@@ -104,13 +121,3 @@ The UN gathers data on world population statistics and publishes the world popul
 
 The latest data set in CSV format can be found here: https://population.un.org/wpp/Download/Standard/CSV/
 
-## Contributors
-
-![Photo of Martin](https://avatars1.githubusercontent.com/u/6180358?v=4&s=96) 
- 
-Martin Preusse [(GitHub/mpreusse)](https://github.com/mpreusse)
-
- 
-![Photo of Sebastian](https://avatars2.githubusercontent.com/u/2486305?v=4&s=96) 
- 
-Sebastian Mueller [(GitHub/yGuy)](https://github.com/yguy), working at [yWorks](https://yworks.com) on custom visualization solutions with [yFiles](https://www.yworks.com/yfiles). In this project, Sebastian is working on a prototype application for conveniently browsing the network of Covid19-related papers and publications.
