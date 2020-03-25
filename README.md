@@ -1,9 +1,10 @@
 We build a knowledge graph on Covid-19 that integrates various public datasets.
 
 - A publication data set on Covid-19 (https://pages.semanticscholar.org/coronavirus-research)
-- Data on gene interaction and function from public genome databases
-- Case reports from John Hopkins University
-- Population data from the UN
+- Data on gene interaction and function from public genome databases (from (ENSEMBL)[http://www.ensembl.org] and (NCBI Gene)[https://www.ncbi.nlm.nih.gov/gene])
+- Case reports from John Hopkins University (https://github.com/CSSEGISandData/COVID-19)
+- Population data from the UN (https://population.un.org/wpp/)
+- Patents related to Covid-19 (https://about.lens.org/covid-19/)
 
 The graph is implemented in Neo4j, a public version is accessible at:
 
@@ -45,6 +46,8 @@ Dr. Alexander Jarasch is the head of Data and Knowledge management department at
 
 
 # 1. Case data
+
+**Note: The description below only covers part of the graph (Johns Hopkins case data + UN population data). More description and docs will follow!**
 
 A knowledge graph that integrates case numbers reported by John Hopkins University and population data from the UN. Work in progress, looking for more datasources, PR welcome!
 
