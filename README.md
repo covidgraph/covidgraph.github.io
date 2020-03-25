@@ -37,7 +37,7 @@ In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 
 <img src="alex.jpg" width="100">
 
-**Dr. Alexander Jarasch** is the head of Data and Knowledge management department at the German Center for Diabetes Research (DZD). His team supports scientists from basic research and and clinical research with IT solutions from data management to data analysis. New insights from diabetes research and its complications are stored in a knowledge graph connecting data from basic research, animal models and clinical trials.
+**Dr. Alexander Jarasch** is the head of Data and Knowledge management department at the [German Center for Diabetes Research](https://www.dzd-ev.de/en/). His team supports scientists from basic research and and clinical research with IT solutions from data management to data analysis.
 
 **Darko Križić**, CTO ([PRODYNA](https://www.prodyna.com/en/management))
 
