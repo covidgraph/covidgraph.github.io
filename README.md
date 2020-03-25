@@ -1,10 +1,10 @@
 We build a knowledge graph on Covid-19 that integrates various public datasets.
 
-- A publication data set on Covid-19 [(https://pages.semanticscholar.org/coronavirus-research)](https://pages.semanticscholar.org/coronavirus-research)
+- A publication data set on Covid-19 ([https://pages.semanticscholar.org/coronavirus-research)](https://pages.semanticscholar.org/coronavirus-research))
 - Data on gene interaction and function from public genome databases (from [ENSEMBL](http://www.ensembl.org) and [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene))
-- Case reports from John Hopkins University [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
-- Population data from the UN [https://population.un.org/wpp/](https://population.un.org/wpp/)
-- Patents related to Covid-19 [https://about.lens.org/covid-19/](https://about.lens.org/covid-19/)
+- Case reports from John Hopkins University ([https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19))
+- Population data from the UN ([https://population.un.org/wpp/](https://population.un.org/wpp/))
+- Patents related to Covid-19 ([https://about.lens.org/covid-19/](https://about.lens.org/covid-19/))
 
 The graph is implemented in Neo4j, a public version is accessible at:
 
@@ -36,7 +36,6 @@ In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 
 
 <img src="alex.jpg" width="100">
-Dr. Alexander Jarasch
 
 Dr. Alexander Jarasch is the head of Data and Knowledge management department at the German Center for Diabetes Research (DZD). His team supports scientists from basic research and and clinical research with IT solutions from data management to data analysis. New insights from diabetes research and its complications are stored in a knowledge graph connecting data from basic research, animal models and clinical trials.
 
