@@ -27,9 +27,18 @@ Martin Preusse [(martinpreusse.com)](https://martinpreusse.com), PhD in computat
  
 Sebastian Mueller [(GitHub/yGuy)](https://github.com/yguy), working at [yWorks](https://yworks.com) on custom visualization solutions with [yFiles](https://www.yworks.com/yfiles). In this project, Sebastian is working on a prototype application for conveniently browsing the network of Covid19-related papers and publications.
 
+
+<img src="martin.jpg" width="100">
+
+Tim Bleimehl ([github/motey](https://github.com/motey)), working at [German Center for Diabetes Research](https://www.dzd-ev.de) as IT-cook-general.
+In this Project Tim is working on the ETL pipeline for the CORD-19 Dataset.
+
+
 Dr. Alexander Jarasch
 
-Tim Bleimehl
+
+
+
 
 
 # 1. Case data
