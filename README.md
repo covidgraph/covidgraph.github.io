@@ -31,7 +31,7 @@ Sebastian Mueller [(GitHub/yGuy)](https://github.com/yguy), working at [yWorks](
 <img src="tim.jpg" width="100">
 
 Tim Bleimehl ([github/motey](https://github.com/motey)), working at [German Center for Diabetes Research](https://www.dzd-ev.de) as IT-cook-general.
-In this Project Tim is working on the ETL pipeline for the CORD-19 Dataset.
+In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 
 
 Dr. Alexander Jarasch
