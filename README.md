@@ -49,7 +49,7 @@ We are a diverse team of scientists, developers and data people from academia an
 
 <img src="darko.jpg" width="100">
 
-**Darko Križić** is founding member of ([PRODYNA](https://www.prodyna.com/en/management)). In his position as Chief Technical Officer, he constitutes the bridge from Software Development to highly available operation of critical applications to strategic management consultancy. 
+**Darko Križić** is founding member of [PRODYNA](https://www.prodyna.com/en/management). In his position as Chief Technical Officer, he constitutes the bridge from Software Development to highly available operation of critical applications to strategic management consultancy. 
 
 <img src="juliane.jpg" width="100">
 
