@@ -42,6 +42,7 @@ In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 **Darko Križić**, CTO ([PRODYNA](https://www.prodyna.com/en/management))
 
 <img src="juliane.jpg" width="100">
+
 **Dr. Juliane Zimmermann**, PhD in Biophysics, Requirements Engineer and Test Specialist at [Qnit](https://www.qnit.de/en/). In this project, 
 she supports in determining relevant use cases and mediating between developers and scientists.
 
