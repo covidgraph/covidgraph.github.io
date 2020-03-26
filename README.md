@@ -24,7 +24,7 @@ The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?fil
 
 # Who we are
 
-We are a diverse team of scientists, developers and data people from academia and industry. We are from [Kaiser & Preusse](https://kaiser-preusse.com), [yWorks](https://www.yworks.com/), [Prodyna](https://www.prodyna.com/en/), [Neo4j](https://neo4j.com/), [University of Freiburg](https://www.uni-freiburg.de/?set_language=en), [Structr](https://structr.com) and more to come!
+We are a diverse team of scientists, developers and data people from academia and industry. We are from [Kaiser & Preusse](https://kaiser-preusse.com), [yWorks](https://www.yworks.com/), [Prodyna](https://www.prodyna.com/en/), [Neo4j](https://neo4j.com/), [German Center for Diabetes Research](https://www.dzd-ev.de/en/index.html), [University of Freiburg](https://www.uni-freiburg.de/?set_language=en), [Structr](https://structr.com) and more to come!
 
 -----------------------
 
@@ -40,12 +40,12 @@ We are a diverse team of scientists, developers and data people from academia an
 
 <img src="tim.jpg" width="100">
 
-**Tim Bleimehl** ([github/motey](https://github.com/motey)), working as IT-cook-general. In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
+**Tim Bleimehl** ([github/motey](https://github.com/motey)), working at [German Center for Diabetes Research](https://www.dzd-ev.de/en/index.html) as IT-cook-general. In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 
 
 <img src="alex.jpg" width="100">
 
-**Dr. Alexander Jarasch**, bioinformatician, data manager, working with graph technology. In this project he connects scientists from basic and clinical research with our Covid-19 knwoledge graph.
+**Dr. Alexander Jarasch**, bioinformatician, data head of data & knowledge management at [German Center for Diabetes Research](https://www.dzd-ev.de/en/index.html), working with graph technology. In this project he connects scientists from basic and clinical research with our Covid-19 knwoledge graph.
 
 **Darko Križić**, CTO ([PRODYNA](https://www.prodyna.com/en/management))
 
