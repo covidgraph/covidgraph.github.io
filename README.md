@@ -1,4 +1,4 @@
-#We build a knowledge graph on Covid-19
+# We build a knowledge graph on Covid-19
 
 - [What we do](#what-we-do)
 - [Who we are](#who-we-are)
