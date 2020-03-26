@@ -54,6 +54,10 @@ We are a diverse team of scientists, developers and data people from academia an
 **Dr. Juliane Zimmermann**, PhD in Biophysics, Requirements Engineer and Test Specialist at [Qnit](https://www.qnit.de/en/). In this project, 
 she supports in determining relevant use cases and mediating between developers and scientists.
 
+<img src="axel.jpg" width="100">
+**Axel Morgner** is founder and CEO of [Structr](https://structr.com/?locale=en) and builds a website for CovidGraph.
+
+
 
 # How to help
 
