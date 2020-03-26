@@ -21,6 +21,7 @@ The graph is implemented in Neo4j and a public version is accessible at:
 
 The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?file=https://gist.githubusercontent.com/yGuy/27c2412bbf0724464c396fe2dc2a6851/raw/1bbd411619478ba1d500cea079de4d25ce947707/CovidGraphSchemaCleaned). 
 
+<img src="graph.jpg" width="300">
 
 # Who we are
 
