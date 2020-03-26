@@ -40,13 +40,12 @@ We are a diverse team of scientists, developers and data people from academia an
 
 <img src="tim.jpg" width="100">
 
-**Tim Bleimehl** ([github/motey](https://github.com/motey)), working at [German Center for Diabetes Research](https://www.dzd-ev.de) as IT-cook-general.
-In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
+**Tim Bleimehl** ([github/motey](https://github.com/motey)), working as IT-cook-general. In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 
 
 <img src="alex.jpg" width="100">
 
-**Dr. Alexander Jarasch** is the head of Data and Knowledge management department at the [German Center for Diabetes Research](https://www.dzd-ev.de/en/). His team supports scientists from basic research and and clinical research with IT solutions from data management to data analysis.
+**Dr. Alexander Jarasch**, bioinformatician, data manager, working with graph technology. In this project he connects scientists from basic and clinical research with our Covid-19 knwoledge graph.
 
 **Darko Križić**, CTO ([PRODYNA](https://www.prodyna.com/en/management))
 
