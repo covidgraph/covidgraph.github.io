@@ -55,6 +55,7 @@ We are a diverse team of scientists, developers and data people from academia an
 she supports in determining relevant use cases and mediating between developers and scientists.
 
 <img src="axel.jpg" width="100">
+
 **Axel Morgner** is founder and CEO of [Structr](https://structr.com/?locale=en) and builds a website for CovidGraph.
 
 
