@@ -1,3 +1,11 @@
+#We build a knowledge graph on Covid-19
+
+- [What we do](#what-we-do)
+- [Who we are](#who-we-are)
+- [Data](#data)
+- [Use cases](#use-cases)
+
+# What we do
 We build a knowledge graph on Covid-19 that integrates various public datasets.
 
 - A publication data set on Covid-19 ([https://pages.semanticscholar.org/coronavirus-research)](https://pages.semanticscholar.org/coronavirus-research))
@@ -17,7 +25,11 @@ The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?fil
 **Note: There is an issue with Chrome/Chromium and SSL. Use Firefox/Safari. We are working on a solution.**
 
 
-## Contributors
+# Who we are
+
+We are a diverse team of scientists, developers and data people from academia and industry. We are from [Kaiser & Preusse](https://kaiser-preusse.com), [yWorks](https://www.yworks.com/), [Prodyna](https://www.prodyna.com/en/), [Neo4j](https://neo4j.com/), [German Center for Diabetes Research](https://www.dzd-ev.de/en/index.html), [University of Freiburg](https://www.uni-freiburg.de/?set_language=en), and more to come!
+
+-----------------------
 
 <img src="martin.jpg" width="100">
  
@@ -47,9 +59,25 @@ In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 she supports in determining relevant use cases and mediating between developers and scientists.
 
 
+# Data
+
+## Covid-19 cases from John Hopkins University
+
+John Hopkins University (JHU) aggregates data from WHO and other health organizations in a daily report. It contains the number of confirmed cases, deaths and recovered patients.
+
+Dashboard: https://coronavirus.jhu.edu/map.html
+Data: https://github.com/CSSEGISandData/COVID-19
+
+## Population data from the UN
+
+The UN gathers data on world population statistics and publishes the world population prospects: https://population.un.org/wpp/
+
+The latest data set in CSV format can be found here: https://population.un.org/wpp/Download/Standard/CSV/
 
 
-# 1. Case data
+# Use cases
+
+## Cross reference case data and population data
 
 **Note: The description below only covers part of the graph (Johns Hopkins case data + UN population data). More description and docs will follow!**
 
@@ -125,18 +153,5 @@ WHERE c.name = 'Germany' AND ag.start >= 70
 RETURN sum(r.count)
 ```
 
-### Datasources
 
-#### Covid-19 cases from John Hopkins University
-
-John Hopkins University (JHU) aggregates data from WHO and other health organizations in a daily report. It contains the number of confirmed cases, deaths and recovered patients.
-
-Dashboard: https://coronavirus.jhu.edu/map.html
-Data: https://github.com/CSSEGISandData/COVID-19
-
-#### Population data from the UN
-
-The UN gathers data on world population statistics and publishes the world population prospects: https://population.un.org/wpp/
-
-The latest data set in CSV format can be found here: https://population.un.org/wpp/Download/Standard/CSV/
 
