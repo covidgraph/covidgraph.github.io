@@ -24,7 +24,7 @@ The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?fil
 
 # Who we are
 
-We are a diverse team of scientists, developers and data people from academia and industry. We are from [Kaiser & Preusse](https://kaiser-preusse.com), [yWorks](https://www.yworks.com/), [Prodyna](https://www.prodyna.com/en/), [Neo4j](https://neo4j.com/), [German Center for Diabetes Research](https://www.dzd-ev.de/en/index.html), [University of Freiburg](https://www.uni-freiburg.de/?set_language=en), and more to come!
+We are a diverse team of scientists, developers and data people from academia and industry. We are from [Kaiser & Preusse](https://kaiser-preusse.com), [yWorks](https://www.yworks.com/), [Prodyna](https://www.prodyna.com/en/), [Neo4j](https://neo4j.com/), [University of Freiburg](https://www.uni-freiburg.de/?set_language=en), [Structr](https://structr.com) and more to come!
 
 -----------------------
 
