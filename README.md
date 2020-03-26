@@ -2,27 +2,23 @@
 
 - [What we do](#what-we-do)
 - [Who we are](#who-we-are)
+- [How to help](#how-to-help)
+- [Get in touch](#get-in-touch)
 - [Data](#data)
 - [Use cases](#use-cases)
+	- [Merge case and population data](#Cross-reference-case-data-and-population-data)
 
 # What we do
-We build a knowledge graph on Covid-19 that integrates various public datasets.
+We build a knowledge graph on Covid-19 that integrates various [public datasets](#data). This includes relevant publications, case statistics, genes and functions, molecular data and much more.
 
-- A publication data set on Covid-19 ([https://pages.semanticscholar.org/coronavirus-research)](https://pages.semanticscholar.org/coronavirus-research))
-- Data on gene interaction and function from public genome databases (from [ENSEMBL](http://www.ensembl.org) and [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene))
-- Case reports from John Hopkins University ([https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19))
-- Population data from the UN ([https://population.un.org/wpp/](https://population.un.org/wpp/))
-- Patents related to Covid-19 ([https://about.lens.org/covid-19/](https://about.lens.org/covid-19/))
-
-The graph is implemented in Neo4j, a public version is accessible at:
+The graph is implemented in Neo4j and a public version is accessible at:
 
 - https://covid.petesis.com:7473
 - http://covid.petesis.com:7474/ (for Chrome/ium and other cases where there is a problem with SSL)
 - user: public, password: corona
+**Note: There is an issue with Chrome/Chromium and SSL. Use Firefox/Safari. We are working on a solution.**
 
 The schema of the graph can be seen, [here](https://www.yworks.com/yed-live/?file=https://gist.githubusercontent.com/yGuy/27c2412bbf0724464c396fe2dc2a6851/raw/1bbd411619478ba1d500cea079de4d25ce947707/CovidGraphSchemaCleaned). 
-
-**Note: There is an issue with Chrome/Chromium and SSL. Use Firefox/Safari. We are working on a solution.**
 
 
 # Who we are
@@ -59,16 +55,62 @@ In this project Tim is working on the ETL pipeline for the CORD-19 Dataset.
 she supports in determining relevant use cases and mediating between developers and scientists.
 
 
+# How to help
+
+We need your help to learn more about Covid-19! You can help with:
+
+- data analysis on the integrated data set
+- load more datasets to Neo4j
+- improve our website
+- communicate and share our project
+
+# Get in touch
+
+We use Matrix to communicate (https://matrix.org/). Riot is the standard client for Matrix (https://about.riot.im/)
+
+How to get started:
+
+- Download Riot or start the web app: https://about.riot.im/downloads
+- Create a free account on the matrix.org homeserver
+- Contact `@mpreusse:matrix.org` on Riot!
+
+(If this does not work you can contact us by email: martin.preusse@gmail.com)
+
+
 # Data
 
-## Covid-19 cases from John Hopkins University
+We integrate data from various sources and link them in our knowledge graph:
+
+1. Publication data set on Covid-19 ([https://pages.semanticscholar.org/coronavirus-research)](https://pages.semanticscholar.org/coronavirus-research))
+2. Patents related to Covid-19 ([https://about.lens.org/covid-19/](https://about.lens.org/covid-19/))
+3. Data on genes and their function (e.g. from [ENSEMBL](http://www.ensembl.org), [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene) and [Gene Ontology](http://geneontology.org/))
+4. Experimental data from clinical studies and molecular genetics
+5. Case reports from John Hopkins University ([https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19))
+6. Population data from the UN ([https://population.un.org/wpp/](https://population.un.org/wpp/))
+
+
+## 1. Publication data set on Covid-19
+
+([https://pages.semanticscholar.org/coronavirus-research)](https://pages.semanticscholar.org/coronavirus-research))
+
+## 2. Patents related to Covid-19
+
+([https://about.lens.org/covid-19/](https://about.lens.org/covid-19/))
+
+## 3. Data on genes and their function
+
+Data on genes and their function (e.g. from [ENSEMBL](http://www.ensembl.org), [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene) and [Gene Ontology](http://geneontology.org/))
+
+## 4. Experimental data from clinical studies and molecular genetics
+
+## 5. Case reports from John Hopkins University 
 
 John Hopkins University (JHU) aggregates data from WHO and other health organizations in a daily report. It contains the number of confirmed cases, deaths and recovered patients.
 
 Dashboard: https://coronavirus.jhu.edu/map.html
 Data: https://github.com/CSSEGISandData/COVID-19
 
-## Population data from the UN
+## 6. Population data from the UN
 
 The UN gathers data on world population statistics and publishes the world population prospects: https://population.un.org/wpp/
 
@@ -78,16 +120,6 @@ The latest data set in CSV format can be found here: https://population.un.org/w
 # Use cases
 
 ## Cross reference case data and population data
-
-**Note: The description below only covers part of the graph (Johns Hopkins case data + UN population data). More description and docs will follow!**
-
-A knowledge graph that integrates case numbers reported by John Hopkins University and population data from the UN. Work in progress, looking for more datasources, PR welcome!
-
-The graph is available in a Neo4j Sandbox: https://10-0-1-172-33065.neo4jsandbox.com/browser/
-
-**User:** public, **Password:** public
-
-You can add it to Neo4j Desktop with the bolt URL, same user/password: `bolt://100.24.206.62:33064`
 
 ### Datamodel 
 ![Data Model](datamodel.png)
