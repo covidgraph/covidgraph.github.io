@@ -66,15 +66,15 @@ We need your help to learn more about Covid-19! You can help with:
 
 # Get in touch
 
-We use Matrix to communicate (https://matrix.org/). Riot is the standard client for Matrix (https://about.riot.im/)
+We use [Matrix](https://matrix.org/) to communicate. It's a free and federated Slack. [Riot](https://about.riot.im/) is the standard client for Matrix.
 
 How to get started:
 
-- Download Riot or start the web app: https://about.riot.im/downloads
-- Create a free account on the matrix.org homeserver
+- Download Riot or start the web app: [https://about.riot.im/downloads](https://about.riot.im/downloads)
+- When asked to login/signup: create a free account on the matrix.org homeserver
 - Contact `@mpreusse:matrix.org` on Riot!
 
-(If this does not work you can contact us by email: martin.preusse@gmail.com)
+(If this does not work you can contact us by email: `martin.preusse@gmail.com`)
 
 
 # Data
