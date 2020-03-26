@@ -30,7 +30,7 @@ We are a diverse team of scientists, developers and data people from academia an
 
 <img src="martin.jpg" width="100">
  
-**Martin Preusse** ([martinpreusse.com)](https://martinpreusse.com)), PhD in computational biology, Neo4j expert, Founder of [Kaiser & Preusse](https://kaiser-preusse.com).
+**Martin Preusse** ([martinpreusse.com](https://martinpreusse.com)), PhD in computational biology, Neo4j expert, Founder of [Kaiser & Preusse](https://kaiser-preusse.com).
 
  
 ![Photo of Sebastian](https://avatars2.githubusercontent.com/u/2486305?v=4&s=96) 
@@ -47,7 +47,9 @@ We are a diverse team of scientists, developers and data people from academia an
 
 **Dr. Alexander Jarasch**, bioinformatician, data head of data & knowledge management at [German Center for Diabetes Research](https://www.dzd-ev.de/en/index.html), working with graph technology. In this project he connects scientists from basic and clinical research with our Covid-19 knwoledge graph.
 
-**Darko Križić**, CTO ([PRODYNA](https://www.prodyna.com/en/management))
+<img src="darko.jpg" width="100">
+
+**Darko Križić** is founding member of ([PRODYNA](https://www.prodyna.com/en/management)). In his position as Chief Technical Officer, he constitutes the bridge from Software Development to highly available operation of critical applications to strategic management consultancy. 
 
 <img src="juliane.jpg" width="100">
 
