@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+title: "CovidGraph"
+description: "We build a knowledge graph on Covid-19"
