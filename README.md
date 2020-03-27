@@ -1,3 +1,3 @@
 # New website:
 
-We moved to [https://covidgraph.com](https://covidgraph.com)!
+We moved to [https://covidgraph.org](https://covidgraph.org)!
